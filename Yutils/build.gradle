@@ -33,7 +33,7 @@ afterEvaluate {
                 from components.release
                 groupId = 'com.github.JosephYan7'
                 artifactId = 'Yutils'
-                version = '1.0.3'
+                version = '1.0.4'
             }
         }
     }
