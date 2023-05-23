@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Yutils"
 include ':app'
+include ':Yutils'
